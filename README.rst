@@ -189,6 +189,7 @@ Another take on The Process Myth, on the mindless following of process without u
 Credits
 ~~~~~~~
 This content was started from a series of email exchanges between
-Doug P (@dgou) and Chris D over the years, and augmented by Lewis F and Ryan C.
+Doug (@dgou) and Chris D over the years,
+and augmented by Lewis (@brolewis) and Ryan (@rbcasperson).
 
-Organizational structure and general curation work has largely been by Doug P.
+Organizational structure and general curation work has largely been by Doug (@dgou).
