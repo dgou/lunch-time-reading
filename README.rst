@@ -49,6 +49,14 @@ Expands on Trunk Based Development part of the
 `Accelerate Book <https://www.safaribooksonline.com/library/view/accelerate/9781457191435/>`_  -
 How high performing teams eschew (long-lived) branches and commit often.
 
+`Anatomy of a Perfect Pull Request <https://opensource.com/article/18/6/anatomy-perfect-pull-request>`_ -
+Practical advice on making PRs easy to check for correctness and to review.
+PRs are the lifeblood of a project.
+Going hand-in-hand with Trunk Based Development,
+your PR cadence is your development cadence,
+the easier your PRs are to review and check for correctness,
+the faster you can go.
+
 
 Behavior Driven Development / Gherkin / Testing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
