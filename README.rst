@@ -133,6 +133,12 @@ Teams / Process
 Joe Newcomer -
 On recording project history and decision making.
 
+`Hyperproductive Development <https://blog.jessitron.com/2017/06/24/the-most-productive-circumstances-for/>`_ -
+Jessica Joy Kerr -
+"Complex systems are easier to build than to figure out after they’re working."
+"The temptation to rewrite is strong, because if I rewrite it then I’ll understand it."
+This could be a good chunk of the NIH syndrome. I think she captures most of what the 10x productity meme is about.
+
 `Dark Scrum <http://ronjeffries.com/articles/016-09ff/defense>`_ -
 Ron Jeffries -
 How Scrum can go bad and some ways to address that.
