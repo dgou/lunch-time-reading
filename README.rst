@@ -28,6 +28,8 @@ How super() works in Python. (this is linked from the Python 3 documentation as 
 `Stop Writing Classes  <https://www.youtube.com/watch?v=o9pEzgHorH0>`_ - Jack Diedrich's PyCon2012 talk about the overuse of classes. (running time of about 52 minutes)
 
 
+`Please Fix Your Decorators <https://hynek.me/articles/decorators/>`_ - Hynek Schlawack - Discusses some of the pitfalls with python decorators and why `wrapt <https://wrapt.readthedocs.io/en/latest/>`_ is usually a good solution
+
 General Programming/Software Developement
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
