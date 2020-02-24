@@ -206,6 +206,6 @@ Credits
 ~~~~~~~
 This content was started from a series of email exchanges between
 Doug (@dgou) and Chris (@cdemattio) over the years,
-and augmented by Lewis (@brolewis) and Ryan (@rbcasperson).
+and augmented by Lewis (@brolewis), Ryan (@rbcasperson), and Shawn (@sdutton-personal).
 
 Organizational structure and general curation work has largely been by Doug (@dgou).
