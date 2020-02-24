@@ -59,6 +59,14 @@ your PR cadence is your development cadence,
 the easier your PRs are to review and check for correctness,
 the faster you can go.
 
+`How to Edit <https://randsinrepose.com/archives/how-to-edit/>`_ -
+Rands In Repose -
+This short piece about writing prose,
+but I find this very much applies to writing code;
+the critical need for other, critical, eyes.
+Code/Pull-Requests probably can't wait for these kinds of author-self-review delays,
+which is why doing regular code walk-throughs and reviews are so important, though often neglected.
+
 
 Behavior Driven Development / Gherkin / Testing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
