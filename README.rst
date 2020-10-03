@@ -67,6 +67,10 @@ the critical need for other, critical, eyes.
 Code/Pull-Requests probably can't wait for these kinds of author-self-review delays,
 which is why doing regular code walk-throughs and reviews are so important, though often neglected.
 
+`Do the simplest thing that could possibly work <https://ronjeffries.com/xprog/articles/practices/pracsimplest/>`_ -
+Ron Jeffries -
+A few paragraphs on staying focused; shows the power of brevity.
+"Real progress against the real problem is maximized if we just work on what the problem really is."
 
 Behavior Driven Development / Gherkin / Testing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
