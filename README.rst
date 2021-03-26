@@ -67,6 +67,10 @@ the critical need for other, critical, eyes.
 Code/Pull-Requests probably can't wait for these kinds of author-self-review delays,
 which is why doing regular code walk-throughs and reviews are so important, though often neglected.
 
+`Why you shouldn't use ENV variables for secret data <https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/>`_ -
+Diogo Monica -
+ENV variables aren't as secure as you might think. How Docker solved this issue.
+
 `Do the simplest thing that could possibly work <https://ronjeffries.com/xprog/articles/practices/pracsimplest/>`_ -
 Ron Jeffries -
 A few paragraphs on staying focused; shows the power of brevity.
