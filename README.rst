@@ -15,7 +15,7 @@ Python
 This addresses some great use cases for Python decorators and
 gives a good justification for learning them.
 
-`The Python Dictionary <http://www.sharats.me/posts/the-python-dictionary/>`_ -
+`The Python Dictionary <https://sharats.me/posts/the-python-dictionary/>`_ -
 A comprehensive look at Python Dictionaries.
 There's some great stuff here, even if you think you are a dictionary master.
 
